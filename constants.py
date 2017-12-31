@@ -1,7 +1,7 @@
 #!/usr/local/bin/python
 
 ''' Anomaly class '''
-ANOMALY_CLASS = 17
+ANOMALY_CLASS = 20
 
 ''' MNIST image format '''
 MNIST_IMG_ROWS = 28
